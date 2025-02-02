@@ -34,3 +34,10 @@ Worldwise is a React-based application for exploring cities and countries. It in
 
    cd worldwise
 ```
+
+ ```bash
+   cd worldwise
+```
+ ```bash
+ npm run dev
+```

@@ -32,12 +32,11 @@ Worldwise is a React-based application for exploring cities and countries. It in
    ```bash
    git clone https://github.com/Ghusn-Mhsen/WorldWise.git
 
-   cd worldwise
-```
-
+2. open worldwise Folder:
  ```bash
    cd worldwise
 ```
+1. Run Vite command:
  ```bash
  npm run dev
 ```

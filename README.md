@@ -36,7 +36,7 @@ Worldwise is a React-based application for exploring cities and countries. It in
  ```bash
    cd worldwise
 ```
-1. Run Vite command:
+3. Run Vite command:
  ```bash
  npm run dev
 ```
